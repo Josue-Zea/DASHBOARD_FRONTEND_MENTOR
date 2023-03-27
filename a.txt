@@ -1,0 +1,14 @@
+Considere la tabla de segmentos siguiente (todas las direcciones y tamaños están en hexadecimal):
+SEGMENTO: 0 BASE: 2000 LONGITUD: 600
+SEGMENTO: 1 BASE: 3000 LONGITUD: 014
+SEGMENTO: 2 BASE: 9000 LONGITUD: 100
+SEGMENTO: 3 BASE: 1000 LONGITUD: 580
+SEGMENTO: 4 BASE: 5000 LONGITUD: 960
+Suponiendo direcciones lógicas de 16 bits, con 12 bits de desplazamiento ¿Qué direcciones físicas corresponden a las direcciones lógicas siguientes?
+Escriba la dirección física en hexadecimal o ERROR si la dirección lógica no existe.
+
+a) 0430
+b) 1011
+c) 2500
+d) 3400
+e) 4112
